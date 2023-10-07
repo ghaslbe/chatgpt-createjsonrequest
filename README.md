@@ -6,6 +6,7 @@ Post ChatGPT to wordpress
 https://youtu.be/4avP0X05Jig
 
 kompilieren: java -cp .:json-20230618.jar ChatGPTAPIExample2
+
 ausführen:  java -cp .:json-20230618.jar ChatGPTAPIExample2
 
 
