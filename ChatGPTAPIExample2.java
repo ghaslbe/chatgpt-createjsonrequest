@@ -130,7 +130,7 @@ public class ChatGPTAPIExample2 {
             connection.setRequestMethod("POST");
             connection.setRequestProperty("Content-Type", "application/json");
             connection.setRequestProperty("Accept", "application/json");
-            connection.setRequestProperty("Host", "www.guentherhaslbeck.de");
+            //connection.setRequestProperty("Host", "www.meinblog.de"); //ggf wichtig je nach server
 
             // Senden des JSON-Objekts
             try (OutputStream os = connection.getOutputStream()) {
