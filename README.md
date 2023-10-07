@@ -15,3 +15,5 @@ https://repo1.maven.org/maven2/org/json/json/20230618/json-20230618.jar
 
 Überblick:
 https://mvnrepository.com/artifact/org.json/json/20230618
+
+https://www.guentherhaslbeck.de/erstelle-einen-wordpressbeitrag-direkt-mit-der-chatgpt-api/
