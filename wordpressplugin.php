@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: JSON to Post
-Description: Erstellt einen neuen Beitrag aus JSON-Daten über eine URL.
+Description: Erstellt einen neuen Beitrag aus JSON-Daten über eine URL. Achtung unsicher. Keine Sicherheitschecks usw... nicht in Live nutzen!
 Version: 1.0
 Author: Ihr Name
 */
