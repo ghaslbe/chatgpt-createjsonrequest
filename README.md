@@ -21,3 +21,7 @@ https://www.guentherhaslbeck.de/erstelle-einen-wordpressbeitrag-direkt-mit-der-c
 
 Hier finden Sie mich:
 https://www.linkedin.com/in/guentherhaslbeck/
+
+Licence:
+CC BY
+
