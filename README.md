@@ -25,3 +25,5 @@ https://www.linkedin.com/in/guentherhaslbeck/
 Licence:
 CC BY
 
+Hinweis:
+Die Daten werden direkt an ChatGPT versendet. Das dürfte Datenschutzrechtlich schwierig sein. Einsatz auf eigene Verantwortung.
